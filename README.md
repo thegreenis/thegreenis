@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Im trying new things to share with you</h3>
 
-- 🔭 I’m currently working on [my Homepage](https://noekrebs.ch)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sumis34/](https://github.com/Sumis34/)
+- 👨‍💻 every project is available at [https://github.com/thegreenis/](https://github.com/thegreenis/)
 
 <h3 align="left">Connect with me:</h3>
 
