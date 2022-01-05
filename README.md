@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreenis&theme=tokyonight&show_icons=true)
-
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Im trying new things to share with you</h3>
 
@@ -28,3 +26,5 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Stats</h3>
+[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreenis&theme=tokyonight&show_icons=true)
