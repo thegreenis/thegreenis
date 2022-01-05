@@ -1,9 +1,7 @@
-### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreenis&theme=tokyonight&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreenis)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm Noé</h1>
-<h3 align="center">A passionate developer from Switzerland</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Im trying new things to share with you</h3>
 
 - 🔭 I’m currently working on [my Homepage](https://noekrebs.ch)
 
